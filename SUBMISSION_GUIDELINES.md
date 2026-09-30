@@ -21,6 +21,11 @@ Welcome, Hackers! 🚀
 
 This guide takes you through the **complete submission process from zero**, even if you are new to Git and GitHub.
 
+> [!IMPORTANT]
+> ⏰ **Submission Deadline:** **14 October 2026 — 11:00 AM**
+>
+> All project submissions must be completed by **14 October 2026 before 11:00 AM**.
+
 ## 🧭 Table of Contents
 
 | Part | Section | Steps |

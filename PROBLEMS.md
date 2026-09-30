@@ -2,6 +2,9 @@
 
 5 Categories × 3 Problems = 15 Problems
 
+Problem statements will be released at the start of the hackathon:
+**13 October 2026 — 11:00 AM**
+
 ## 🏥 HealthTech
 - Problem 01
 - Problem 02

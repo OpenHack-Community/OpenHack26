@@ -7,7 +7,7 @@
 ### Build Fair. Build Yourself. Build With Impact.
 
 ![Read](https://img.shields.io/badge/READ_BEFORE-PARTICIPATING-bd00ff?style=for-the-badge&labelColor=0b0b0f)
-![Start](https://img.shields.io/badge/START-13_OCT_2026_•_9:00_AM-9dff00?style=for-the-badge&labelColor=0b0b0f)
+![Start](https://img.shields.io/badge/START-13_OCT_2026_•_11:00_AM-9dff00?style=for-the-badge&labelColor=0b0b0f)
 ![Team](https://img.shields.io/badge/TEAM-2–3_STUDENTS-bd00ff?style=for-the-badge&labelColor=0b0b0f)
 
 [🏠 Home](README.md) · [📋 Problems](PROBLEMS.md) · [📦 Submit](SUBMISSION_GUIDELINES.md) · [⚖️ Judging](JUDGING.md) · [🤖 AI Policy](AI_AND_OPEN_SOURCE.md) · [🧑‍💻 Conduct](CODE_OF_CONDUCT.md)
@@ -117,15 +117,13 @@ OpenHack'26 is a:
 
 > **24-Hour Build Challenge**
 
-The hackathon starts at:
-
-| 📅 Date | ⏰ Start Time |
-| :-: | :-: |
-| **13 October 2026** | **9:00 AM** |
+| Schedule | Details |
+| :-- | :-- |
+| **Hackathon Duration** | **24 Hours** |
+| **Start** | **13 October 2026 — 11:00 AM** |
+| **End** | **14 October 2026 — 11:00 AM** |
 
 Teams are expected to develop their solution during the official hackathon period.
-
-The organizing team will announce the final submission deadline and other schedule details.
 
 <img src="assets/divider.png" width="100%" height="4" alt=""/>
 
@@ -383,9 +381,11 @@ will be submitted through the official project submission form.
 <a id="r15"></a>
 ## 15. ⏰ Submission Deadline
 
-The final submission deadline will be announced by the organizing team.
+⏰ **Submission Deadline:**
 
-Teams are responsible for submitting their project before the announced deadline.
+**14 October 2026 — 11:00 AM**
+
+All project submissions must be completed by **14 October 2026 at 11:00 AM**.
 
 Late submissions may be handled according to the final decision of the organizing committee.
 
@@ -484,7 +484,7 @@ Before starting your build, make sure you understand:
 * [ ] My team is officially registered.
 * [ ] I understand the no-team-switching rule.
 * [ ] I understand that multiple teams can choose the same problem.
-* [ ] I understand the 24-hour challenge format.
+* [ ] I understand the 24-hour challenge format, from 13 October 2026 at 11:00 AM to 14 October 2026 at 11:00 AM.
 * [ ] I know AI tools are allowed.
 * [ ] I understand that my team must understand its AI-generated work.
 * [ ] I know external development/outsourcing is not allowed.

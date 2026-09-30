@@ -8,8 +8,8 @@
 
 <br/>
 
-![Date](https://img.shields.io/badge/DATE-13_OCT_2026-bd00ff?style=for-the-badge&labelColor=0b0b0f)
-![Start](https://img.shields.io/badge/START-9:00_AM-bd00ff?style=for-the-badge&labelColor=0b0b0f)
+![Date](https://img.shields.io/badge/DATE-13_14_OCT_2026-bd00ff?style=for-the-badge&labelColor=0b0b0f)
+![Start](https://img.shields.io/badge/START-11:00_AM-bd00ff?style=for-the-badge&labelColor=0b0b0f)
 ![Duration](https://img.shields.io/badge/DURATION-24_HOURS-9dff00?style=for-the-badge&labelColor=0b0b0f)
 ![Team](https://img.shields.io/badge/TEAM_SIZE-2–3-bd00ff?style=for-the-badge&labelColor=0b0b0f)
 
@@ -72,10 +72,10 @@ flowchart LR
 | :-- | :-- |
 | 🎯 **Event** | OpenHack'26 Hackathon — 2nd Edition |
 | 🏫 **Organizer** | Department of Software Engineering, MUET SZAB Campus |
-| 📍 **Location** | MUET SZAB Campus, Khairpur |
-| 📅 **Date** | 13 October 2026 |
-| ⏰ **Start** | **9:00 AM** |
-| ⏱️ **Duration** | 24-Hour Build Challenge |
+| 📍 **Venue** | MUET SZAB Campus, Khairpur |
+| 📅 **Date** | 13–14 October 2026 |
+| ⏰ **Hackathon** | **13 October, 11:00 AM → 14 October, 11:00 AM** |
+| ⏱️ **Duration** | 24 Hours |
 | 👥 **Participants** | University / College Students |
 | 👨‍💻 **Team Size** | 2–3 Students |
 | 🐙 **Technology Partner** | GitHub |
@@ -339,7 +339,7 @@ $ cd OpenHack26/submissions && mkdir Your-Team-Name
 $ echo "Think. Build. Push. 🚀"
 ```
 
-📍 **MUET SZAB Campus, Khairpur** · 📅 **13 October 2026** · ⏰ **9:00 AM**
+📍 **MUET SZAB Campus, Khairpur** · 📅 **13–14 October 2026** · ⏰ **13 October, 11:00 AM → 14 October, 11:00 AM**
 
 **🐙 Built with GitHub • Powered by Students • Driven by Problems**
 
