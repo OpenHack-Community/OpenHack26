@@ -170,6 +170,9 @@ secrets in this README or in the repository.
     AI](https://careerpilot-ai-qpgmzurksxjg2kddxqevkl.streamlit.app/)
 -   **Demo Video:** [Watch the Project
     Demo](https://drive.google.com/file/d/1vAO8RGDi9eDj3aIKR4BlIFpgtcu-QfIz/view?usp=drive_link)
+    ### Project Presentation
+
+- **PPT:** [View Presentation](https://drive.google.com/file/d/19MnlSL1GrsnerRmMKKeUqA7imCpOdqyz/view?usp=sharing)
 
 ## 🎯 Project Goal
 
